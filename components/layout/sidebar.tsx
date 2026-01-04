@@ -124,7 +124,7 @@ export function Sidebar() {
         <div className="flex h-16 items-center justify-between border-b border-border px-4">
           <Link href="/overview" className="flex items-center gap-2">
             <Image
-              src="/logo.jpg"
+              src="/logo.jpeg"
               alt={siteConfig.name}
               width={32}
               height={32}

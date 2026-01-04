@@ -54,7 +54,7 @@ export function LoginForm() {
         {/* Logo and Title */}
         <div className="text-center">
           <Image
-            src="/logo.jpg"
+            src="/logo.jpeg"
             alt={siteConfig.name}
             width={120}
             height={120}
